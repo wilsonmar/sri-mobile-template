@@ -60,3 +60,4 @@ in mobile-examples folder run `react-native run-android`
 #### Windows and Linux
 
 http://suyogkc.com.np/react-native-for-windowslinux/
+(suspended as of 2016-03-06)
